@@ -47,6 +47,13 @@
 <img src="https://img.shields.io/badge/github-repo-blue?logo=html5" alt="">
 
 
+---------10. 이모지 아이콘(단축키 윈도우 + ▪ )
+
+📌 프로젝트 소개
+📌 
+📌
+📌
+
 
 
 
