@@ -13,10 +13,14 @@
 - 사과
 - 바나나
 
-  1. html
-  2. css
-  3. javascript
+1. html
+2. css
+3. javascript
  
 -----------4. 하이퍼링크(Link) -------
 [쑤니디저트카페 반응형웹](http://youngchild.github.com/sunni)
+
+------5. 구분선(hr)------
+***
+---
 
