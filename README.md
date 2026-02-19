@@ -30,7 +30,7 @@
 
 
 -----7. 체크박스 -------
-- [] html
+- [ ] html
 - [x] css
 - [ ] javascript
 
