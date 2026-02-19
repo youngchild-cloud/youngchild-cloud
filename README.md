@@ -44,7 +44,7 @@
 [뱃지 아이콘](https://shields.io)
 <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="">
 <img src="https://img.shields.io/badge/github-repo-blue?logo=css" alt="">
-<img src="https://img.shields.io/badge/github-repo-blue?logo=html" alt="">
+<img src="https://img.shields.io/badge/github-repo-blue?logo=html5" alt="">
 
 
 
