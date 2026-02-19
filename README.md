@@ -42,7 +42,7 @@
 
 ---------9. 뱃지 아이콘------
 [뱃지 아이콘](https://shields.io)
-<img src="https://img.shields.io/badge/any_text-you_like-blue" alt="">
+<img src="https://img.shields.io/badge/github-you_like-blue" alt="">
 
 
 
