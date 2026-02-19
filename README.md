@@ -29,4 +29,9 @@
 ![동계 올림픽 로고](https://mml.pstatic.net/www/mobile/edit/20260219_1095/upload_1771450612769HZ3pV.png)
 
 
+-----7. 체크박스 -------
+- [] html
+- [x] css
+- [ ] javascript
+
 
